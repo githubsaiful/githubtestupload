@@ -8,7 +8,7 @@ namespace GitubTest.Controllers
 {
     public class TestController : Controller
     {
-        // GET: Testtrtertret
+        // GET: new comment
         public ActionResult Index()
         {
             return View();
